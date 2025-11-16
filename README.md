@@ -3,6 +3,8 @@
 Minimal analytical service MVP: fetches data from an external API, caches it, normalizes the dataset and returns an AI-based summary
 via REST API.
 
+Full technical documentation: /docs
+
 **The service uses a public free test API (jsonplaceholder.typicode.com) as a mock external data source.**
 
 ## Stack
@@ -46,6 +48,7 @@ Response shape:
   "sample": [ { "...": "..." } ]
 }
 ```
+## Testing (curl)
 ## curl Request example
 ```bash
     curl -X POST http://localhost:8000/analyze \
