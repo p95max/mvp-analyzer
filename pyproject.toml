@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "mvp-analyzer"
+version = "0.1.0"
+description = "Minimal analytical service MVP: fetch, cache, normalize, summarize"
+authors = ["maxx <m.petrykin@gmx.de"]
+readme = "README.md"
+package-mode = true
+
+[tool.poetry.dependencies]
+python = "^3.14"
+fastapi = "^0.115.0"
+uvicorn = { extras = ["standard"], version = "^0.32.0" }
+httpx = "^0.27.0"
+pydantic = "^2.9.0"
+pydantic-settings = "^2.6.0"
+orjson = "^3.10.7"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.0"
+pytest-asyncio = "^0.24.0"
+httpx = "^0.27.0"
+ruff = "^0.7.0"
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[build-system]
+requires = ["poetry-core>=1.9.0"]
+build-backend = "poetry.core.masonry.api"
