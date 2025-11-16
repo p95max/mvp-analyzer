@@ -5,12 +5,12 @@ via REST API.
 
 ## Full technical documentation
 
-| Language       | Link                                                                 |
-|----------------|----------------------------------------------------------------------|
-| English        | [Technical Documentation (ENG)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_ENG.md) |
-| Ukrainian      | [Technical Documentation (UKR)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_UKR.md) |
-| English(pdf)   | [Technical Documentation (ENG)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_ENG.md) |
-| Ukrainian(pdf) | [Technical Documentation (UKR)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_UKR.md) |
+| Language        | Link                                                                 |
+|-----------------|----------------------------------------------------------------------|
+| English(.md)    | [Technical Documentation (ENG)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_ENG.md) |
+| English(.pdf)   | [Technical Documentation (ENG)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20documentation_ENG.pdf) |
+| Ukrainian(.md)  | [Technical Documentation (UKR)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_UKR.md) |
+| Ukrainian(.pdf) | [Technical Documentation (UKR)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20documentation_UKR.pdf) |
 
 
 
