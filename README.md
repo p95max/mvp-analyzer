@@ -3,7 +3,17 @@
 Minimal analytical service MVP: fetches data from an external API, caches it, normalizes the dataset and returns an AI-based summary
 via REST API.
 
-Full technical documentation: /docs
+## Full technical documentation
+
+| Language       | Link                                                                 |
+|----------------|----------------------------------------------------------------------|
+| English        | [Technical Documentation (ENG)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_ENG.md) |
+| Ukrainian      | [Technical Documentation (UKR)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_UKR.md) |
+| English(pdf)   | [Technical Documentation (ENG)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_ENG.md) |
+| Ukrainian(pdf) | [Technical Documentation (UKR)](https://github.com/p95max/mvp-analyzer/blob/master/docs/Technical%20Documentation_UKR.md) |
+
+
+
 
 **The service uses a public free test API (jsonplaceholder.typicode.com) as a mock external data source.**
 
